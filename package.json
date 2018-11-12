@@ -1,6 +1,6 @@
 {
-  "name": "ng2-date-countdown",
-  "version": "1.0.2",
+  "name": "ng2-date-countdown-abadid",
+  "version": "1.0.3",
   "description": "Angular2 Simple Date CountDown",
   "main": "index.js",
   "typings": "./dist/countdown.d.ts",
@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/matheushf/ng2-date-countdown.git"
+    "url": "https://github.com/Abadii/ng2-date-countdown.git"
   },
   "keywords": [
     "angular2 countdown",
@@ -25,9 +25,9 @@
   "author": "Matheus Victor <hffmatheus@gmail.com> (http://www..com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matheushf/ng2-date-countdown.git/issues"
+    "url": "https://github.com/Abadii/ng2-date-countdown.git/issues"
   },
-  "homepage": "https://github.com/matheushf/ng2-date-countdown.git/issues#readme",
+  "homepage": "https://github.com/Abadii/ng2-date-countdown.git/issues#readme",
   "dependencies": {
     "@angular/common": "7.0.3",
     "@angular/compiler": "7.0.3",
